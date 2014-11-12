@@ -1,0 +1,190 @@
+0; 1415724633960; "Awesome	Great solution to being car-less in Brooklyn."; A Google User
+1; 1415691190359; "Ok	Tutto ok"; A Google User
+2; 1415661664849; "Great services. App needs some work.	Amazing service. Use it very often to get home from work when rush hour isn't at peak. The map is sometimes slow even with full hspa+ (4g) or LTE connection. Could do with a makeover (sidebar menu like in Google maps)."; A Google User
+3; 1415645396698; "Almost a perfect app	I love Car2Go, it's been super useful for the times I need a car when I've been late for an appointment or need to quickly do errands. The only thing missing on the android app version (vs the iPhone app which has it) is the timer function. A very useful user experience element that's been left out. I'm hoping you guys eventually implement this request and when that happens I'll be rating this app with 5 stars."; A Google User
+4; 1415553453424; "Useful app.	It works great most of the time, and even when it can't find mutt location initially, it gives instructions on how to reset it. Very useful."; A Google User
+5; 1415544347090; "Convenient	Great service"; A Google User
+6; 1415528431685; "Totally Convenient	New to the Miami area without a vehicle but I live near everything. Car2go is awesome when I have to go out of my area because I don't have to worry about transportation."; A Google User
+7; 1415520974545; "Great app	It really does everything you need it to do."; A Google User
+8; 1415455896348; "Excellent"; A Google User
+9; 1415385774296; "Useful yet simple.	Works just fine. Sometimes bugs, but rarely. Nice useful tool to get to your next car2go. Recommended."; A Google User
+10; 1415340188055; "Good service but buggy app	Crashes sometimes and just fails to retrieve data a lot"; A Google User
+11; 1415324818664; "Great option	Great option"; A Google User
+12; 1415319711724; "It does not work on Galaxy 5S!	When I try to reserve a car it requires me to log in. Every time it says I have an incorrect login username or password. Have reset the password many times and still does not work. Called car2go and they recommended me uninstalling and  reinstalling the app. Did that 3 times, still same login issues!"; A Google User
+13; 1415297891974; "Good app"; A Google User
+14; 1415297844158; "I never get my actual position	when I own this app,  there's always a  mistake in my position, showing somewhere i used to be  hours ago,even if the gps is turned on... So i never manage to see the cars around me!!!"; A Google User
+15; 1415296256613; "Good idea. App needs a UI refresh"; A Google User
+16; 1415229992980; "Keeps improving	Everything I need is here.  Reports could be more useful but they work.  It would be nice to see trip maps,  since you have GPS info."; A Google User
+17; 1415153405934; "Decent service, passable app	Love Car2Go. The app can be slow to update, though."; A Google User
+18; 1415149589432; "Great app, great service	Car2Go is so useful, and has prevented the need for a second car in our family.  The app makes it super easy to use, with no planning ahead necessary.  If I need a car, I just find the closest one, reserve it, and go.  The app always works like a charm!  No bugs that I've noticed."; A Google User
+19; 1415140556609; "AWESOME	Really love the convenient"; A Google User
+20; 1415128008781; "Efficiente	Semplicemente funzionale. Come deve essere una app per smartphone."; A Google User
+21; 1415035859114; "Awesome	Very useful app"; A Google User
+22; 1414975724736; "Great app!"; A Google User
+23; 1414959854222; "Nice having a car again	Missed having my own car, since I moved to Copenhagen. Now I suddenly have a car again! :)"; A Google User
+24; 1414932669461; "Good app. Solid.	Login problems at the beginning,  Besides that it works just fine."; A Google User
+25; 1414814979862; "Works well & easy to use	I love this app, it works great! A few possible improvements: add the time the user reserved the car (currently this can only be seen via web) and allow the user to suppress the weekend promotion notifications. The app forces a notification every time it's opened on the weekend to promote a deal - very annoying. One notification per weekend is enough. Add a button to call or email customer service directly rather than opening the email app on the user's phone."; A Google User
+26; 1414811527030; "So convenient and a great price!"; A Google User
+27; 1414810017151; "Location Issues	Lack of accuracy of where the car is actually parked."; A Google User
+28; 1414772504169; "Love this service!	Need more cars please! Must be able to drop off cars in Virginia as well as DC"; A Google User
+29; 1414744985079; "Amazing"; A Google User
+30; 1414723081257; "Car2Go	When in a pinch, and I don't have to walk to far, it is a joy. The only downside is all of San Diego to the boarder is not included."; A Google User
+31; 1414712237561; "Works well.	Does its job."; A Google User
+32; 1414708256705; "Laggy	Needs some work. it lags a lot and radar sometimes doesn't work or causes app to crash."; A Google User
+33; 1414707642457; "Great	Awesome."; A Google User
+34; 1414706177940; "API Access	Annoying that every 90 days the requirement is to validate login. I have lost multiple vehicle reservations due to this policy."; A Google User
+35; 1414693717288; "Sweet"; A Google User
+36; 1414690908728; "Great app and great service	This app is a great tool for any car2go user. It is helpful with finding cars, reservations, keep up with your usage and payment.  This is a must have"; A Google User
+37; 1414651979163; "Great service	Thanks for adding my request for ride history to the app! This is so much easier for me and other people that don't log on with a computer. I hope you guys liked my idea to have a car2go keypod keychain too. I think it would be cool. A redesign of the app might make some people happier as well. Thanks."; A Google User
+38; 1414625669973; "Love it so far...	Nice to know where all the rides at..."; A Google User
+39; 1414556611657; "I like this app"; A Google User
+40; 1414456794703; "Works well"; A Google User
+41; 1414452871057; "Love love love on rainy days w hen	The bus is late or doesnt show"; A Google User
+42; 1414440268479; "Works better than the website	Does what it should, nothing extra.   Now, if only I knew why the map-view hasn't worked for a month or so. It's a good thing I know my immediate neighborhood & can find the list-view cars."; A Google User
+43; 1414381375098; "Meh, could be better	Works, could work better with Android specific UI, time remaining on reservation & car location  notification. Radar is to slow to notify car is typically reserved before the app loads. Why does an app published by the owner of the service have to be authorized every 60 days?"; A Google User
+44; 1414380428307; "Useful app"; A Google User
+45; 1414371947677; "Excellent location	Gave me the exact location."; A Google User
+46; 1414339910847; "Great but needs more work	Cars aren't really where the app says. Sometimes there isn't even a road. I guess it's work in progress but it's looking good."; A Google User
+47; 1414274785737; "Solid	Does what it needs to do well. Location con be a little janky for a minute but it usually sorts itself out. Love the feature where you can see which cars have less that 25% fuel so you can snag em and fuel em and get minutezz."; A Google User
+48; 1414272192863; "So Bad	Why are they wrecking app?   First they have pop ups continuously popping up even though I already read the same info three times.   Then they arbitrarily change my log in information so by the time I log in someone else has already reserved the car.   Have login when I start the bloody app and enable option to view pop ups.   And don't keep popping up the same window every 10 seconds"; A Google User
+49; 1414244223697; "The locations of cars are always wrong	You guys really need to fix your gps on the cars"; A Google User
+50; 1414241025904; "This app is awesome	It is very nice, and can show me everything I need to know without having to log into their site. Very easy to find cars, reserve them, and track my spend."; A Google User
+51; 1414217922463; "Works great!	Makes it easy to find a car with multiple cars on a Google map. Gives you information and allows you to book from anywhere"; A Google User
+52; 1414204528147; "beep beep!	Love the concept of car2go, app is a bit confusing when trying to log in and view all of my information."; A Google User
+53; 1414190895894; "Great, convenient, easy to use."; A Google User
+54; 1414188109761; "Great!	Great!"; A Google User
+55; 1414127601977; "Super convenient"; A Google User
+56; 1414103673757; "Easy to use	Very intuitive interface."; A Google User
+57; 1414102304143; "Map function	The map functionality is terrible. Fix the zoom and location access."; A Google User
+58; 1414081414878; "Unstable & stupid	Crashes regularly. The car positions disappear after booking a car and require a live connection to the server to re-appear. I.e. if you loose network connectivity after booking, you're screwed because you can't find your car. The app also violates Android UX best practices. All in all, a turd."; A Google User
+59; 1414044063061; "Buona app, ottimo servizio"; A Google User
+60; 1414035654095; "I use this app as a backup for another search application, and have been happy with the accuracy in locating a vehicle."; A Google User
+61; 1413971429862; "Highlight cars that need fuel	If a car needs fuel please highlight it in some manner"; A Google User
+62; 1413956859621; "Useful but not perfect	Crashes sometimes and doesn't get quite a perfect location"; A Google User
+63; 1413954205866; "Best	Great"; A Google User
+64; 1413892032232; "Disappointed	I booked a car early in the morning I walked to the street and it wasn't there I'm not using them again ever"; A Google User
+65; 1413858600441; "App works great	Its helps me to find a car quickly and shows me the total charge almost right away."; A Google User
+66; 1413832504791; "Love it!	The app, the service, the company.... All flawless!"; A Google User
+67; 1413751584078; "Excellent!!!!!	This app is perfect!!!"; A Google User
+68; 1413746888584; "Great	Great!"; A Google User
+69; 1413678952523; "Neat	Living in the city and being able to keep my car in the garage on the nights and weekends will pay for itself.  Hopefully there will be people nearby to help me pick my car 2 go out of the snow in the winter. App works well."; A Google User
+70; 1413659981976; "Simple	Easy to find a car.  Easy to reserve once found."; A Google User
+71; 1413659302945; "Works well	Hate the fact that you have to renew your booking confirmation every 90 days"; A Google User
+72; 1413650096156; "Awesome app	Love the app, it makes finding the cats simple and easy, even as you're running out the door. And awesome business. Love car2go. If you don't have it, you should."; A Google User
+73; 1413595310558; "Helpful	I find the app is pretty good. GPS can be glitchy."; A Google User
+74; 1413580282946; "Good one"; A Google User
+75; 1413562614839; "Good app! Easy to find and reserve cars"; A Google User
+76; 1413559847443; "Love it, but would love a fob instead of a card :)"; A Google User
+77; 1413491280073; "Good app	It does what is says it will do"; A Google User
+78; 1413488091143; "Not bad	Not bad"; A Google User
+79; 1413427391218; "Works are advertised"; A Google User
+80; 1413386363256; "Radar doesn't work	Generally good, but the radar almost never works.  The app knows shere I am, shows my location perfectly, but for some mysterious reason can't set up a radar."; A Google User
+81; 1413327533087; "Refresh needed	Functionality could be improved with slide out menu and an overall UI improvement."; A Google User
+82; 1413221671415; "Pretty good	Seems top work most of the time. Crashes on several different devices especially when trying to use the radar function."; A Google User
+83; 1413218635281; "Great app for a great service	Some random bugs, but phenomenal customer service!"; A Google User
+84; 1413134377120; "Useful	Helpful in seeing where there are available cars near you. The new radar function is a bit annoying."; A Google User
+85; 1413114349194; "Doesn't work on Nexus 5	Not sure when this stopped working, but it crashes every time I try and use the app.  I can open the app and get a high level view of the cars around me, but if I touch the screen at all the app freezes, then crashes.  :("; A Google User
+86; 1413061083527; "Does what it needs to"; A Google User
+87; 1413052809647; "Convenience +++	Great interface and easy to use"; A Google User
+88; 1413030912309; "Junk!	Keep failing to download"; A Google User
+89; 1412989432873; "Love the service, very pratical!! The only thing is they should have more cars, on the weekends its hard to find it..."; A Google User
+90; 1412946357013; "Does the job.	Works well."; A Google User
+91; 1412923580539; "Essentially simple	Can't think of much missing.."; A Google User
+92; 1412915040481; "Light functionality	It seems to do a few things well, but the website is still superior. Keep up the good work."; A Google User
+93; 1412872139181; "Useful and lightweight	I've used the Car2go app on 5-year-old smartphones with extremely limited memory and broken screens. Their wise decision to integrate with the Google maps API paid off in terms of speed and system integration. Extremely useful."; A Google User
+94; 1412869794031; "Sometimes it works fine. But I often have problems staying logged in and I find the GPS doesn't work properly"; A Google User
+95; 1412807708293; "Does what it says	A suggestion for the devs (toronto): when I click on a parking lot that has free spaces, can you pass the address over to Google maps so that I can use SatNav to get to it? Or even better add a "find nearest parking" option which sends the Co - ordinates to maps. Otherwise all is good! Thanks."; A Google User
+96; 1412719897780; "Simple & Useful	Used it to look for cars and reserved it. Just like the cars, it's very convenient."; A Google User
+97; 1412710100343; "Nice	Easy ro use accurate map."; A Google User
+98; 1412630448715; "Awesome	Great app!"; A Google User
+99; 1412613113567; "Easy to use	Sometimes find things like "recent trips" don't load but finding a car and reserving it hasn't been an issue"; A Google User
+100; 1412610377014; "Super great!	This is exactly what I needed to get around and its so fun!"; A Google User
+101; 1412608702042; "Car2go	Only comment I have is a more interactive walking directions integration.... Beyond that though the app rocks."; A Google User
+102; 1412548270323; "Very useful!	I used this app to book a car last night and it worked really well. The process was straight forward and a lot of fun. The app is easy to use and runs fine on my Nexus 4."; A Google User
+103; 1412540827393; "Good"; A Google User
+104; 1412534184840; "Great service, poor app	The app lags and crashes very frequently, takes too long to update my location & nearby cars, had a few incidents where I was reserving a car that was showing as "available" but really it has been reserved by someone else, the app just took really long to update it."; A Google User
+105; 1412490424640; "Works fine in Calgary"; A Google User
+106; 1412477998974; "So far so good.	I added a star for the weekend special."; A Google User
+107; 1412428942663; "Great Service	Perfect user experience and great service so far. The right revolution in Rome is finally landed."; A Google User
+108; 1412376255598; "Very good app and service	Could be better to be customized to my home city."; A Google User
+109; 1412369000918; "Cae2go	Able to find vehicles available for use, make reservations, and find out the condition (appearance and fuel level) of a car you intend to rent. I wish it had a trip/cost planner, and a few other desired features, but it's pretty good for the app's small size."; A Google User
+110; 1412363585022; "Very convenient	This is an awesome service for someone who doesn't own a car. I can get places public transportation cant, or get there faster."; A Google User
+111; 1412354032319; "Easy to use	As soon as the app is opened, it maps the way to the nearest available car. Slick and easy."; A Google User
+112; 1412293098882; "Great service.	Makes short trips a breeze."; A Google User
+113; 1412250548397; "Works smoothly	Simple interface,  can find and book a car very quickly.  Thank you!"; A Google User
+114; 1412207692912; "Unreliable"; A Google User
+115; 1412201244717; "Works like a charm	Thank you!"; A Google User
+116; 1411949312928; "Current trip time missing	Giving it 2 stars because the app is only useful to locate a car. There is no way to know the time of you current trip in order to know how much money you have spent so far.   You can only know your trip time once you finish it, it' not fair and looks tricky."; A Google User
+117; 1411710065821; "Fairphone Android 4.2.2"; A Google User
+118; 1411704349384; "I love it!	Its so convinience !"; A Google User
+119; 1411688163396; "Car2go	Works, is quick and accurate, love it"; A Google User
+120; 1411671016103; "So exciting and convenient! :-D"; A Google User
+121; 1411664603763; "Nicely compatible	Happy that it works so well on my 2.3.4 G2!"; A Google User
+122; 1411662352716; "Working better now	The app is working more consistently now. Also, C2Go listened to requests by many of us and finally expanded the territory to include the several blocks around Regis University."; A Google User
+123; 1411623541557; "Hate the password requirements	They want a password that is so complicated I can't ever remember it. Love the service, just not crazy about the app."; A Google User
+124; 1411571177508; "It's bloody good man!"; A Google User
+125; 1411454166605; "Useful, stable and easy to use. Couldn't do without it"; A Google User
+126; 1411452734839; "Lack of other languages	Lack of other languages for cars."; A Google User
+127; 1411444459864; "Map is laggie	Cars are often listed available when reserved and I find the load time lags or is highly inaccurate."; A Google User
+128; 1411432645371; "Car2go"; A Google User
+129; 1411320645124; "The map should indicate if a vehicle is reserved for someone."; A Google User
+130; 1411270820860; "Gps does not work	This app is generally useless because the gps doesn't track where you're at. It is always around a mile off and typically thinks I'm where I was the last time I used the app (which is rarely where I currently am). Def needs improvement."; A Google User
+131; 1411241316665; "Love it	The service is unbelievable. About the app like the new radar feature."; A Google User
+132; 1411071492263; "Good service"; A Google User
+133; 1411064407922; "Pretty easy to use, though not exactly gorgeous."; A Google User
+134; 1411057716469; "Mostly good	The GPS sometimes is easy of so give yourself extra time to find a car. Plus, they should offer heat maps about car migration do you would know what neighborhood have the best odds when you are headed home at midnight."; A Google User
+135; 1410990655997; "Can be confusing	When cars are parked under ground it doesn't show. Spent too much time wandering parades."; A Google User
+136; 1410985876428; "Not pleased	If I park in a legal space it should allow me to end the ride and go about my business. Not waste 25 minutes of my time and tell me to continue parking elsewhere just to not establish a connection in numerous different parking spots. Not cool. However, they have reimbursed my time that was lost and gave me 30 minutes. I still would like to see Xm radio in the cars"; A Google User
+137; 1410813840094; "Great for innercity runs	Love it for short inner city errands/lunches/meetings that's too far to walk but not far enough to drive.  Especially since I park 2 blocks uphill from my work. The car jerks a bit when it's shifting gears. Would like color code where we can park."; A Google User
+138; 1410744041013; "Great app. Key features missing.	Great app. A key feature would be to color code on the map all streets/areas where the cars can be parked legally...Don't think it's that hard to do. Perhaps I'm wrong?"; A Google User
+139; 1410733147863; "permissions Find accounts on device	Why do you collect all my accounts? Superb for the rest..."; A Google User
+140; 1410727609510; "Awesome	The car to go purpose is excellent! The app helps find cars and parking spots with ease!"; A Google User
+141; 1410704522146; "Perfect service	East to use, fresh new"; A Google User
+142; 1410638714206; "Great app	And the services is superb"; A Google User
+143; 1410633405210; "App is garbage"; A Google User
+144; 1410543667041; "Needs a lot of work"; A Google User
+145; 1410536382593; "Useful althoug sometimes its not that intuitive"; A Google User
+146; 1410505383638; "Gets the job done.	I have no complains for the app. It really gets the job done. But one thing I wish it did is to be able to see my saved places that I placed a star in Google maps on the car2go app."; A Google User
+147; 1410487994534; "Unreliable at best.	For the Nexus 5, I find the app to be very unreliable and non user friendly. Frequently crashing, and logging out. I do however use it but I'm always reluctant to do so. I tend to use the desktop version."; A Google User
+148; 1410420157121; "Good"; A Google User
+149; 1410306810628; "Great app	Very helpful"; A Google User
+150; 1410299149712; "Nice app. The gas could be a little more accurate, but it's fine otherwise."; A Google User
+151; 1410277352646; "Unresponsive	Radar doesn't work well. Having the map refresh for a couple seconds after every pan and zoom makes it  sluggish. Setting radar with double tap doesn't make sense - every other app uses double tap as zoom. Log out button doesn't log me out. This app needs some serious work."; A Google User
+152; 1410219396547; "Very handy	Great for finding available Car2go cars."; A Google User
+153; 1410209165039; "Functional App	Only been using it a few weeks. So far, no issues. Would give it 5 but it doesn't cache any map data. So if you go offline and try to zoom...map vanishes. Otherwise can't really fault it"; A Google User
+154; 1410112401239; "Very useful car rental	Easy to find nearby cars and to manage your account and bills. Good service and it's plenty of cars (in Florence). +++++"; A Google User
+155; 1410112104532; "Great!	It's nice for short distance driving."; A Google User
+156; 1410063882230; "I'm pretty new (three trips so far; two of them with several stops,  but so far the app has been great."; A Google User
+157; 1409929345974; "Backup Escape Plan	"I don't have to put up with this. I have Car2go." Pretty much sums it up."; A Google User
+158; 1409893390032; "Can't login	I have tried so many times. But simply can't login. I can log in using same username and password on website but not on this app"; A Google User
+159; 1409771253831; "Few little glitches with the server some times tells me there is a car where there is not but 90 percent of the time no problem love the app"; A Google User
+160; 1409758674113; "Great"; A Google User
+161; 1409728908809; "Car2go	Love this app! Makes finding available cars to rent a breeze."; A Google User
+162; 1409723158304; "Helpful"; A Google User
+163; 1409715400005; "Essential	Would be hard to use the service without it."; A Google User
+164; 1409687274590; "Very helpful!"; A Google User
+165; 1409588283940; "I'm sure it works good..	But it barely opens on the L Developer Preview. No fault on the Dev but hopefully the add support for ART runtime."; A Google User
+166; 1409519799481; "Great app	Changed the way I think about transportation."; A Google User
+167; 1409517493013; "Wow... Finally!	A complicated application... Uses presence and real time information to present to me useful guidance at a moment notice.  All applications should exceed expectations like this."; A Google User
+168; 1409406140710; "Convenient!"; A Google User
+169; 1409307817734; "Love it. Has changed my life, literally."; A Google User
+170; 1409275524623; "I love this service car 2go"; A Google User
+171; 1409247034955; "No connection	App stopped connecting to the server."; A Google User
+172; 1409204382362; "Useful but not perfect.  Can certainly do with some improvements"; A Google User
+173; 1409187868921; "Bien pour l'ensemble	J'aurais voulu voir mon compte directement à partir du app et non le site"; A Google User
+174; 1409182604222; "pretty good app	The functionality of this app is pretty simple and straight forward."; A Google User
+175; 1409170607889; "Great app and service, only once i couldn't find a car downtown where it said it was and i received 20mins free for my trouble :)"; A Google User
+176; 1409137720580; "Makes you login to often	App wants to authorize often, no I don't know my password because you make me set such a complex one, so most the time I make a run for a car I see and can't reserve it."; A Google User
+177; 1409088980161; "Works good."; A Google User
+178; 1409067729922; "Awesome!	I've been enjoying car2go here in Denver, Colorado! It's so nice to be able to jump into a car and make my way to my destination.  :-)"; A Google User
+179; 1409054979353; "It's ok	App occasionally will not allow me to reserve cars.  On numerous occasions I have had to re install app to get it to work"; A Google User
+180; 1409011920982; "I wish it had account information	That's the only thing I dislike about this app"; A Google User
+181; 1409009835494; "Good app, use it all the time"; A Google User
+182; 1408978307297; "Very useful"; A Google User
+183; 1408976110445; "Works perfectly	App is better than the company :)"; A Google User
+184; 1408919540009; "Nice and compact car..need it.	Always Anywhere near there.. and I don't have a car. But I have account to Car2go app. Nice.. Thanks."; A Google User
+185; 1408885664474; "Map is good. Zoom in smooth.	:)"; A Google User
+186; 1408819640232; "Decent, but has it's issues	The remove radar button almost never works and hasn't worked for many months, even on two different devices."; A Google User
+187; 1408809892400; "Very basic app	For what it does (locate and reserve vehicles), it works really well. . Wish it would have account information though. I'd like to be able to see how many minutes I've used,  how many free minutes I have left and any charges I've accrued."; A Google User
+188; 1408802714344; "Not the greatest features	I travel a lot and have membership at various car sharing programs but this app is by far the most counterintuitive app I have used."; A Google User
+189; 1408799934943; "Good App	It can be sluggish, but it gets the job done for finding Car2Go cars.  Doesn't show your account details/transactions"; A Google User

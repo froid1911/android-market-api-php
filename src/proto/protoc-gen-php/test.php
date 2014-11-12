@@ -45,7 +45,7 @@ test_varint();
 
 	if ($argc > 1) {
 		$test = $argv[1];
-		require("$test.php");
+		require("test.php");
 
 		if ($test == 'addressbook.proto') {
 			$fp = fopen('test.book', 'rb');
